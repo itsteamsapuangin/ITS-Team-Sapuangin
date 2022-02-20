@@ -12,7 +12,7 @@ Before run brakepad code, there are some module need to install:
 2. graphviz
 
 How to run Brakepad code:
-1. Download file "Brakepad.ipynb" [here](https://github.com/itsteamsapuangin/ITS-Team-Sapuangin/blob/main/Brakepad.ipynb)
+1. Download file "Brakepad.ipynb" [here](https://github.com/itsteamsapuangin/ITS-Team-Sapuangin/blob/main/brakepad_maintenance.ipynb)
 2. Open file in Jupyter notebook
 3. Run whole notebook
 4. If the code is executed successfully, there will appear a massage box that contain information about percentage & thickness of brakepad
