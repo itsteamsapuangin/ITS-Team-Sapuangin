@@ -44,6 +44,4 @@ How to run Brakepad code:
 2. Open file in Jupyter notebook
 3. Run whole notebook
 4. If the code is executed successfully, there will printed information about percentage & thickness of brakepad
-6. This is the decision tree diagram will look like
-
-![tree](https://user-images.githubusercontent.com/99813942/154808293-eb9b0004-6ee9-40ff-8608-a32543d512a0.png)
+6. This is the decision tree diagram will look like this [tree](https://user-images.githubusercontent.com/99813942/154808293-eb9b0004-6ee9-40ff-8608-a32543d512a0.png)
