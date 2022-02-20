@@ -14,7 +14,9 @@ There are some module need to install:
 1. pandas
 2. graphviz
 
+
 How to run:
+### If you want to run whole code follow this instruction
 1. Download all files in this repository and put it in same folder
 2. Open file named "main.ipynb" in Jupyter notebook
 3. Run whole notebook
