@@ -17,16 +17,27 @@ There are some module need to install:
 
 How to run:
 ### If you want to run whole code follow this instruction
-1. Download all files in this repository and put it in same folder
-2. Open file named "main.ipynb" in Jupyter notebook
-3. Run whole notebook
-4. There will some results printed in screen
-5. This code will produce final result named "final_result.xlsx" that contain list of best workshop 
+
+1. Download all files in this repository 
+2. Download folder dataset in this link [here]()
+3. Put all files in same folder
+4. Open file named "main.ipynb" in Jupyter notebook
+5. Run whole notebook
+6. There will some results printed in screen
+7. This code will produce final result named "final_result.xlsx" that contain list of best workshop 
+
+### If you want to run with more specific output follow this instruction
+
+1. Download all files in this repository 
+2. Download folder dataset in this link [here]()
+3. Put all files in same folder
+4. Open code (battery_maintenance.ipynb; motor_maintenance.ipynb; brakepad_maintenance.ipynb ) that you want to run in Jupyter notebook
+5. There will printed specific output in your screen
+6. After run maintenance code you will got status of every components on "need_maintenance.xlsx" that in folder dataset
+7. With run "best_workshop.ipynb" code you will get list of best workshop for repair you components
+
 
 # Brakepad
-Before run brakepad code, there are some module need to install:
-1. tkinter
-2. graphviz
 
 How to run Brakepad code:
 1. Download file "Brakepad.ipynb" 
