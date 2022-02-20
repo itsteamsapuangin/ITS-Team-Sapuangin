@@ -1,5 +1,11 @@
 # ITS-Team-Sapuangin
 
+there are some module need to install:
+1. pandas
+
+
+How to run:
+
 # Brakepad
 Before run brakepad code, there are some module need to install:
 1. tkinter
