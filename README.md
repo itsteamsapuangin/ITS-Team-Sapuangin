@@ -44,4 +44,20 @@ How to run Brakepad code:
 2. Open file in Jupyter notebook
 3. Run whole notebook
 4. If the code is executed successfully, there will printed information about percentage & thickness of brakepad
-6. This is the decision tree diagram will look like this [tree](https://user-images.githubusercontent.com/99813942/154808293-eb9b0004-6ee9-40ff-8608-a32543d512a0.png)
+5. This is the decision tree diagram will look like this [tree](https://user-images.githubusercontent.com/99813942/154808293-eb9b0004-6ee9-40ff-8608-a32543d512a0.png)
+
+# Battery Maintenance
+
+How to run Battery Maintenance code:
+1. Download file "battery_maintenance.ipynb" 
+2. Open file in Jupyter notebook
+3. Run whole notebook
+4. If the code is executed successfully, there will print information about battery life cycle.
+
+# Motor Maintenance
+
+How to run Motor Maintenance code:
+1. Download file "motor_maintenance.ipynb" 
+2. Open file in Jupyter notebook
+3. Run whole notebook
+4. If the code is executed successfully, there will print information about the classification of motor condition, for example: normal or imbalance 
