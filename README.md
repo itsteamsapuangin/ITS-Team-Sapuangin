@@ -61,3 +61,11 @@ How to run Motor Maintenance code:
 2. Open file in Jupyter notebook
 3. Run whole notebook
 4. If the code is executed successfully, there will print information about the classification of motor condition, for example: normal or imbalance 
+
+# Workshop recommender
+1. Download need_maintenance.xlsx and datashet_workshop.xlsx
+2. Make sure need_maintenance.xlsx and datashet_workshop.xlsx are exist in dataset folder
+3. Download file "best_workshop.ipynb" 
+4. Open file in Jupyter notebook
+5. Run notebook
+6. If the code is executed successfully, there will show the recommendation workshop and file final_result.xlsx will exist in current folder
