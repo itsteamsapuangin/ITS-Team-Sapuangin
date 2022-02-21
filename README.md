@@ -8,7 +8,8 @@ This Repository contain :
 4. brakepad_maintenance.ipynb
 5. best_workshop.ipynb
 6. final_result.xlsx
-7. README.md
+7. requirements.txt
+8. README.md
 
 There are some module need to install:
 jupyter==1.0.0
