@@ -34,7 +34,7 @@ How to run:
 4. Open code (battery_maintenance.ipynb; motor_maintenance.ipynb; brakepad_maintenance.ipynb ) that you want to run in Jupyter notebook
 5. There will printed specific output in your screen
 6. After run maintenance code you will got status of every components on "need_maintenance.xlsx" that in folder dataset
-7. With run "best_workshop.ipynb" code you will get list of best workshop for repair you components
+7. With run "best_workshop.ipynb" code you will get list of best workshop for repair your components
 
 
 # Brakepad
