@@ -11,9 +11,15 @@ This Repository contain :
 7. README.md
 
 There are some module need to install:
-1. pandas
-2. graphviz
-
+jupyter==1.0.0
+sklearn==0.0
+graphviz==0.19.1
+pandas==1.4.1
+seaborn==0.11.2
+h5py==3.6.0
+or you can install them by type 
+pip install -r requirements.txt 
+on folder root project
 
 How to run:
 ### If you want to run whole code follow this instruction
