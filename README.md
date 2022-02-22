@@ -46,8 +46,8 @@ How to run:
 
 # Brakepad
 
-How to run Brakepad code:
-1. Download file "Brakepad.ipynb" 
+How to run Brakepad Maintenance code:
+1. Download file "brakepad_maintenance.ipynb" 
 2. Open file in Jupyter notebook
 3. Run whole notebook
 4. If the code is executed successfully, there will printed information about percentage & thickness of brakepad
